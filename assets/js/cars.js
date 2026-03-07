@@ -2,7 +2,7 @@ window.CARS = [
   {
     "id": 1,
     "name": "Fiat Linea",
-    "image": "assets/img/cars/Fiat-Linea.webp",
+    "image": "assets/img/cars/fiat-linea.webp",
     "body": "sedan",
     "segment": "ekonomik",
     "price": 1100,
